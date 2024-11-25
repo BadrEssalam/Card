@@ -1,6 +1,6 @@
-# d_card_as_container
+# Card
 
-A new Flutter project.
+Some key features of the Card widget
 
 ## Getting Started
 
